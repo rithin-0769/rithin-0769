@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Rithin Ravoori <br>Im currently working on react Jsx projects<br>I like F1, cinema and anime <br>i wanna build websites and applications that help me and ither people on a daily basis
+I'm Rithin Ravoori <br> I'm currently working on React JSX projects<br>I like F1, cinema, and anime <br>i wanna build websites and applications that help other people and me on a daily basis
 
 
 ## 🌐 Socials:
@@ -18,7 +18,7 @@ I'm Rithin Ravoori <br>Im currently working on react Jsx projects<br>I like F1, 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rithin-0769&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=rithin-0769&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
