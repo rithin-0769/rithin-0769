@@ -45,20 +45,6 @@
 
 💡 Visualizing algorithms like BFS, DFS, Kruskal
 🎯 Helps in understanding complex concepts
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rithin-0769&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
-  
-  <img src="https://streak-stats.demolab.com?user=rithin-0769&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithin-0769&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
-</p>
 ---
 
 ## 🧩 DSA Progress
